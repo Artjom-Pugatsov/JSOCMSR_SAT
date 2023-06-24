@@ -1,3 +1,5 @@
+This repository contains code that is a part of the [Research Project 2023](https://github.com/TU-Delft-CSE/Research-Project) of TU Delft.
+
 The Encoder-Decoder directory contains all the JAVA code for encoding and decoding JSOCMSR instances.
 Please read the comments to see how to run it. The paths to files need to be hard-coded.
 
